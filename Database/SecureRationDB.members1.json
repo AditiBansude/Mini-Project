@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "67f65a9c2edc20d68508a4cf"
+  },
+  "memberId": 4,
+  "fullName": "Soham Bansude",
+  "aadharNumber": "333344445555",
+  "contactNumber": "9876543212",
+  "householdId": "1"
+},
+{
+  "_id": {
+    "$oid": "67f65a9c2edc20d68508a4d4"
+  },
+  "memberId": 9,
+  "fullName": "Rajesh Barge",
+  "aadharNumber": "666677778888",
+  "contactNumber": "9123456789",
+  "householdId": "3"
+},
+{
+  "_id": {
+    "$oid": "67f65a9c2edc20d68508a4d1"
+  },
+  "memberId": 6,
+  "fullName": "Tanaji Pawar",
+  "aadharNumber": "444455556666",
+  "contactNumber": "9090909090",
+  "householdId": "2"
+},
+{
+  "_id": {
+    "$oid": "67f65a9c2edc20d68508a4cc"
+  },
+  "memberId": 1,
+  "fullName": "Aditi Bansude",
+  "aadharNumber": "245637633524",
+  "contactNumber": "8787676756",
+  "householdId": "1"
+},
+{
+  "_id": {
+    "$oid": "67f65a9c2edc20d68508a4d0"
+  },
+  "memberId": 42,
+  "fullName": "Sanchi Pawar",
+  "aadharNumber": "323232323232",
+  "contactNumber": "8787690756",
+  "householdId": "2"
+},
+{
+  "_id": {
+    "$oid": "67f65a9c2edc20d68508a4ce"
+  },
+  "memberId": 3,
+  "fullName": "Asha Bansude",
+  "aadharNumber": "222233334444",
+  "contactNumber": "9876543211",
+  "householdId": "1"
+},
+{
+  "_id": {
+    "$oid": "67f65a9c2edc20d68508a4d2"
+  },
+  "memberId": 7,
+  "fullName": "Meenakshi Pawar",
+  "aadharNumber": "555566667777",
+  "contactNumber": "9191919191",
+  "householdId": "2"
+},
+{
+  "_id": {
+    "$oid": "67f65a9c2edc20d68508a4d3"
+  },
+  "memberId": 8,
+  "fullName": "Vaishnavi Barge",
+  "aadharNumber": "995637633524",
+  "contactNumber": "8787670056",
+  "householdId": "3"
+},
+{
+  "_id": {
+    "$oid": "67f65a9c2edc20d68508a4d5"
+  },
+  "memberId": 10,
+  "fullName": "Shivani Barge",
+  "aadharNumber": "777788889999",
+  "contactNumber": "9890999898",
+  "householdId": "3"
+},
+{
+  "_id": {
+    "$oid": "67f65a9c2edc20d68508a4cd"
+  },
+  "memberId": 2,
+  "fullName": "Anil Bansude",
+  "aadharNumber": "111122223333",
+  "contactNumber": "9876543210",
+  "householdId": "1"
+}]

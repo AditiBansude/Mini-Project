@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "67f6591c2edc20d68508a4ca"
+  },
+  "householdId": "2",
+  "familyHead": "Sanchi Pawar",
+  "allocatedRation": 1000,
+  "rationStatus": false,
+  "lastCollection": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "members1": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f6591c2edc20d68508a4c9"
+  },
+  "householdId": "1",
+  "familyHead": "Aditi Bansude",
+  "allocatedRation": 1500,
+  "rationStatus": false,
+  "lastCollection": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "members1": [
+    ""
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f6591c2edc20d68508a4cb"
+  },
+  "householdId": "3",
+  "familyHead": "Vaishnavi Barge",
+  "allocatedRation": 800,
+  "rationStatus": false,
+  "lastCollection": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "members1": [
+    ""
+  ]
+}]

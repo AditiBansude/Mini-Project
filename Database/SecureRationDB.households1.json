@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "67f8b95e03edc8f17ad91e6f"
+  },
+  "householdId": "1",
+  "familyHead": "Aditi Bansude",
+  "allocatedRation": 1500,
+  "rationStatus": false,
+  "lastCollection": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "members1": [
+    {
+      "memberId": 1,
+      "fullName": "Aditi Bansude",
+      "aadharNumber": "245637633524",
+      "contactNumber": "8787676756",
+      "householdId": "1"
+    },
+    {
+      "memberId": 2,
+      "fullName": "Anil Bansude",
+      "aadharNumber": "111122223333",
+      "contactNumber": "9876543210",
+      "householdId": "1"
+    },
+    {
+      "memberId": 3,
+      "fullName": "Asha Bansude",
+      "aadharNumber": "222233334444",
+      "contactNumber": "9876543211",
+      "householdId": "1"
+    },
+    {
+      "memberId": 4,
+      "fullName": "Soham Bansude",
+      "aadharNumber": "333344445555",
+      "contactNumber": "9876543212",
+      "householdId": "1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8ba10743e78460ef71b9e"
+  },
+  "householdId": "2",
+  "familyHead": "Sanchi Pawar",
+  "allocatedRation": 1000,
+  "rationStatus": false,
+  "lastCollection": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "members1": [
+    {
+      "memberId": 42,
+      "fullName": "Sanchi Pawar",
+      "aadharNumber": "323232323232",
+      "contactNumber": "8787690756",
+      "householdId": "2"
+    },
+    {
+      "memberId": 6,
+      "fullName": "Tanaji Pawar",
+      "aadharNumber": "444455556666",
+      "contactNumber": "9090909090",
+      "householdId": "2"
+    },
+    {
+      "memberId": 7,
+      "fullName": "Meenakshi Pawar",
+      "aadharNumber": "555566667777",
+      "contactNumber": "9191919191",
+      "householdId": "2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8ba4c03edc8f17ad91e70"
+  },
+  "householdId": "3",
+  "familyHead": "Vaishnavi Barge",
+  "allocatedRation": 800,
+  "rationStatus": false,
+  "lastCollection": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "members1": [
+    {
+      "memberId": 8,
+      "fullName": "Vaishnavi Barge",
+      "aadharNumber": "995637633524",
+      "contactNumber": "8787670056",
+      "householdId": "3"
+    },
+    {
+      "memberId": 9,
+      "fullName": "Rajesh Barge",
+      "aadharNumber": "666677778888",
+      "contactNumber": "9123456789",
+      "householdId": "3"
+    },
+    {
+      "memberId": 10,
+      "fullName": "Shivani Barge",
+      "aadharNumber": "777788889999",
+      "contactNumber": "9890999898",
+      "householdId": "3"
+    }
+  ]
+}]
